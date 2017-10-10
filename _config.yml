@@ -3,7 +3,8 @@ exclude:              ["README.MD"]
 encoding:             "utf-8"
 
 locale                   : "en-US"
-title                    : "GRTrace – the General Relativity rayTracer"
+title                    : "GRTrace"
 title_separator          : ""
 name                     : &name "Jakub Szewczyk & Grzegorz Uriasz"
-description              : &description ""
+description              : &description "The General Relativity rayTracer"
+site.google_analytics    : false
