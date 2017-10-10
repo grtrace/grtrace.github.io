@@ -1,1 +1,9 @@
 theme: jekyll-theme-midnight
+exclude:              ["README.MD"]
+encoding:             "utf-8"
+
+locale                   : "en-US"
+title                    : "GRTrace – the General Relativity rayTracer"
+title_separator          : ""
+name                     : &name "Jakub Szewczyk & Grzegorz Uriasz"
+description              : &description ""
