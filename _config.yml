@@ -8,3 +8,7 @@ title_separator          : ""
 name                     : &name "Jakub Szewczyk & Grzegorz Uriasz"
 description              : &description "The General Relativity rayTracer"
 site.google_analytics    : false
+site.show_downloads      : true
+site.github.repository_url : "https://github.com/grtrace/grtrace"
+site.github.zip_url : "https://github.com/grtrace/grtrace/archive/master.zip"
+site.github.tar_url : "https://github.com/grtrace/grtrace/archive/master.tar.gz"
